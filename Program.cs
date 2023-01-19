@@ -9,8 +9,8 @@
         // test the following batch sizes
         static int[] testBatchSizes = new int[] { 32768, 16384, 8192, 4096, 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1 };
         // data file to load
-        //const string dataFileName = "..\\..\\..\\Data\\PLACES__Local_Data_for_Better_Health__Census_Tract_Data_2022_release.csv";
-        const string dataFileName = "..\\..\\..\\Data\\Small Test Data File.csv";
+        const string dataFileName = "..\\..\\..\\Data\\PLACES__Local_Data_for_Better_Health__Census_Tract_Data_2022_release.csv";
+        //const string dataFileName = "..\\..\\..\\Data\\Small Test Data File.csv";
 
         // database connection
         const string dbConnStr = "Data Source=localhost;Initial Catalog=BatchLoadTest;Integrated Security=True;Pooling=False";
