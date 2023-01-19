@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Data/PLACES__Local_Data_for_Better_Health__Census_Tract_Data_2022_release.csv
